@@ -10,4 +10,4 @@ I have experience in cloud computing, low-code platforms, and technology communi
 - Website creating
 
 ## Contact
-You can reach me at [LinkedIn](https://www.linkedin.com/in/nathaniel-eyram-b1944a382) or [GitHub](https://github.com/NATHYBOI).
+You can reach me at [LinkedIn](https://www.linkedin.com/in/nathaniel-eyram-b1944a382) or [GitHub](https://github.com/DZANAT).
